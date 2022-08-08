@@ -2,7 +2,7 @@
   "name": "myProj",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "MIT", 
   "dependencies": {
     "shadowizardy": "^1.0.0",
     "yargs-parser": "9.0.2",
