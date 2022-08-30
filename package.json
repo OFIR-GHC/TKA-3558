@@ -10,7 +10,7 @@
     "cli-table3": "^0.5.1",
     "commander": "^5.0.0",
 	"lodash": "4.0.0",
-		"express": "3.0.0"
+		"express": "3.11.0"
   },
   "optionalDependencies": {
     "fsevents": "^2.1.2"
